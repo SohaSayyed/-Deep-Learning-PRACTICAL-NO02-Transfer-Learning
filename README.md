@@ -69,12 +69,3 @@ Compared with LeNet-5:
 
 ---
 
-## How to Run
-
-### 1️⃣ Install Dependencies
-```bash
-pip install tensorflow numpy matplotlib seaborn scikit-learn
----
-
-## 👩‍💻 Author
-Soha Sayyed
