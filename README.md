@@ -75,5 +75,5 @@ Compared with LeNet-5:
 ```bash
 pip install tensorflow numpy matplotlib seaborn scikit-learn
 
-##  Author
+## 👩‍💻 Author
 Soha Sayyed
